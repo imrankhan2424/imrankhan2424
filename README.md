@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imran</h1>
 <h3 align="center">A passionate Software Tester</h3>
 
-- 🔭 I’m currently working on **GM Mobility Project**
+- 🔭 I’m currently working on **GM Mobility Project** as an Automation Test Engineer
 
 - 🌱 I’m currently learning **API Automation**
 
