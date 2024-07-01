@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **GM Mobility Project** as an Automation Test Engineer
 
-- 🌱 I’m currently learning **REST API Automation**
+- 🌱 I’m currently learning **Jmeter**
 
-- 💬 Ask me about **Java, Selenium, Mobile Testing, API Testing, Database, Manual Testing, Localization and Accessibility Testing**
+- 💬 Ask me about **Java, Selenium, Mobile Testing, API Testing, Database, Manual Testing, REST API Automation, Localization and Accessibility Testing**
 
 - 📫 How to reach me **imrankhan242424@gmail.com**
 
