@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran</h1>
-<h3 align="center">A passionate Software Tester</h3>
+<h3 align="center">A passionate Software Test Engineer</h3>
 
 - 🔭 I’m currently working on **GM Mobility Project** as an Automation Test Engineer
 
